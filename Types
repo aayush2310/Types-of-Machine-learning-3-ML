@@ -1,0 +1,11 @@
+Types of ML:-(Based on the external supervision needed)
+1)SUPERVISED
+   a)Regression
+   b)Classification
+2)UNSUPERVISED
+   a)Clusturing
+   b)Dimensionality Reduction
+   c)Anomaly Detection
+   d)Association
+3)Semi-Supervised
+4)Reinforcement
